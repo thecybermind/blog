@@ -4,15 +4,37 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am originally from the United States, but I currently live in Bulgaria with my wife and our dog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My long-time personal project has been QMM (Quake3 MultiMod). It is a dynamic server-side plugin manager for games based on the Quake 3 engine (and now also the Quake 2 engine!). It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
 
+I began writing it while at University of Maryland in 2004, and the code was originally hosted on SourceForge while the main site was hosted on PlanetQuake.
 
-[jekyll-organization]: https://github.com/jekyll
+Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. In 2015, long after PlanetQuake disappeared and SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
+
+Take a look at some of the QMM-related repos:
+* [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works)).
+* [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments and support for reading symbol information from .map files.
+* [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 2 and Quake 3 Arena.
+* [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - Plugin that dynamically modifies map entities during loading -- similar to Half-Life's [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games.
+* [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.
+* [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.
+* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
+* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux to retarget the gametype DLL load to itself.
+
+Take a look at some of my other projects:
+
+* [ipredir](https://github.com/thecybermind/ipredir/) - outgoing IP redirection+NAT for Windows.
+* [FRSScan](https://github.com/thecybermind/frsscan/) - Flipper Zero app to scan FRS channels for activity.
+* [SteelSeriesGG Helper](https://github.com/thecybermind/steelseriesgg_helper) - Simple script to reset settings in the Sonar section of the SteelSeries GG app.
+* [QuestNoise](https://github.com/thecybermind/questnoise/) - World of Warcraft addon that plays a sound when you have made objective progress, completed an objective, or completed a quest.
+* [HideHotKeys](https://github.com/thecybermind/hidehotkeys/) - World of Warcraft addon that allows you to hide button text showing the keybind and/or macro name.
+* [FlightWarn](https://github.com/thecybermind/flightwarn/) - World of Warcraft addon that plays a warning sound when you have flown in a straight line for too long, or if you have flown into fatigue. Useful for alt-tab flying prior to Dragonflight.
+* [wowaddons](https://github.com/thecybermind/wowaddons/) - Other World of Warcraft addons that are older and not as popular to maintain anymore.
+* [WeapTFC](https://github.com/thecybermind/weaptfc_mm/) - Plugin for Half-Life Metamod to provide AdminMod scripts with callbacks for certain events. Also includes an AdminMod script to utilize these functions.
+* [w48crash](https://github.com/thecybermind/w48crash/) - Original PoC for CVE-2007-1260, discovered by me.
+* [WriteELF](https://github.com/thecybermind/writeelf/) - Tool to place a Wii homebrew ELF file onto an SD card at a certain sector. Used in conjunction with the original "Team Twiizers" savegame hack for The Legend of Zelda: Twilight Princess.
+* [VoxelMapRedir](https://github.com/thecybermind/VoxelMapRedir) - Hook DLL (using MinHook library) and DLL injector for an old version of Minecraft's VoxelMap plugin. It hooked Windows kernel32.dll function calls to fix path lookups when playing on a Minecraft Realm.
+* [aimpatch](https://github.com/thecybermind/aimpatch) - Proxy DLL for the old AIM 7.5 client to remove a giant ad at the bottom of the window.
