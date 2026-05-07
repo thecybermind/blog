@@ -17,8 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-sass:
-  quiet_deps: true
+#sass:
+#  quiet_deps: true
   
 title: Kevin Masterson
 email: k.m.masterson@gmail.com
@@ -29,7 +29,7 @@ url: "https://kevin.masterson.dev" # the base hostname & protocol for your site,
 github_username: thecybermind
 
 # Build settings
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
