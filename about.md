@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+subtitle: 🇺🇸➡️🇧🇬
 permalink: /about/
 date:   2026-05-08 00:00:00 +0300
 ---
