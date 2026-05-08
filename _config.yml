@@ -70,7 +70,7 @@ plugins:
 navbar-links:
   Tags: "/tags/"
   About Me: "/about/"
-  Resume: "https://kevin.masterson.dev/"
+  "Resume / CV": "https://kevin.masterson.dev/"
 
 ################
 # --- Logo --- #
@@ -149,6 +149,9 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "kevin.masterson.dev/blog"
+
+# url of website in footer (defaults to blog root)
+# url-canonical: "https://kevin.masterson.dev/blog"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

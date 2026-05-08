@@ -12,7 +12,7 @@ My long-time personal project has been QMM (Quake3 MultiMod). It is a dynamic se
 
 I began writing it while at University of Maryland in 2004, and the code was originally hosted on SourceForge while the main site was hosted on PlanetQuake.
 
-Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. In 2015, long after PlanetQuake disappeared and SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
+Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. In 2015, long after PlanetQuake disappeared and SourceForge went downhill, I made repos on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
 Take a look at some of the QMM-related repos:
 * [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works)).
