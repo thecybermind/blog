@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
 
-I am originally from the United States, but I currently live in Bulgaria with my wife and our dog.
+I am originally from the United States, but I currently live in Blagoevgrad, Bulgaria with my wife and our dog.
 
 My long-time personal project has been QMM (Quake3 MultiMod). It is a dynamic server-side plugin manager for games based on the Quake 3 engine (and now also the Quake 2 engine!). It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
 
