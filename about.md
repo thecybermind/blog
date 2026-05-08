@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+date:   2026-05-08 00:00:00 +0300
 ---
 
 Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
