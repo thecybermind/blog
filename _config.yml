@@ -24,8 +24,7 @@
 title: Blogoevgrad
 author: Kevin Masterson
 email: k.m.masterson@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  🇺🇸 > 🇧🇬
+
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kevin.masterson.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -98,22 +97,22 @@ round-avatar: true
 social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   email: "k.m.masterson@gmail.com"
-#  facebook: deanattali
   github: thecybermind
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: "@daattali"
-#  whatsapp: 15551212
+#  facebook: yourname
+#  twitter: yourname
+#  patreon: yourname
+#  youtube: "@yourname"
+#  whatsapp: yournumber
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "userid/username"
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: yournumber
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
